@@ -1,0 +1,8 @@
+L's:       0 
+D's:       0 
+S's:       0 
+M's:       0 
+T's:       0 
+O's:       1 
+Q's:       1 
+others:    0 
